@@ -138,7 +138,7 @@ Ensure to:
 ---
 ## Developed By 
 - **Md Ayman Siddique**
-- ## [**Subhrajit Saha**](https://github.com/subhoxsaha)
+- ## [Subhrajit Saha](https://github.com/subhoxsaha)
 - **Souvik Pal**
 
 ---
