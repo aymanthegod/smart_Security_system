@@ -132,14 +132,14 @@ Ensure to:
 ---
 
 ## Developed By 
--**Md Ayman Siddique**
--** Subhrajit Saha**
--** Souvik Pal**
+- **Md Ayman Siddique**
+- **Subhrajit Saha**
+- **Souvik Pal**
 
 ---
 
 ## Under Mentorship of 
-** Deep Rudro **
+**Deep Rudro**
 
 ##  Developed Under
 This project was developed under the guidance and mentorship of **KGEC-Robotics Society**,
