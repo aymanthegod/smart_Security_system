@@ -114,6 +114,13 @@ Ensure to:
 
 ---
 
+## Images 
+
+![image](https://github.com/user-attachments/assets/6b9c84e8-04e4-4425-948d-8c17c6434205)
+![image](https://github.com/user-attachments/assets/bebb63d2-d52b-4dba-a882-0ec3f727fd5a)
+![image](https://github.com/user-attachments/assets/867e6abd-1f66-4e80-ba92-38ac8bfa3a63)
+
+
 ##  Future Scope
 
 - Face recognition via ESP32-CAM
@@ -121,3 +128,18 @@ Ensure to:
 - OTP/email-based remote unlock
 - Cloud sync for access logs
 - Integration with IoT platforms like Firebase
+
+---
+
+## Developed By 
+-**Md Ayman Siddique**
+-** Subhrajit Saha**
+-** Souvik Pal**
+
+---
+
+## Under Mentorship of 
+** Deep Rudro **
+
+##  Developed Under
+This project was developed under the guidance and mentorship of **KGEC-Robotics Society**,
