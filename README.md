@@ -144,7 +144,7 @@ Ensure to:
 ---
 
 ## Under Mentorship of 
-**Deep Rudra**
+- [**Deep Rudra**](https://github.com/deeprudra04)
 
 ##  Developed Under
 This project was developed under the guidance and mentorship of **KGEC-Robotics Society**,
